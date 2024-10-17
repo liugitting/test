@@ -1,1 +1,2 @@
-print('it is T2')
+for i in range(0,100):
+    print(i)
