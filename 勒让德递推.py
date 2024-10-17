@@ -79,5 +79,3 @@ if __name__ == "__main__":
     # test_print_Plm()
     main()
     print('文件输出成功！')
-    
-    print('t2')
