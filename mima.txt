@@ -19,3 +19,363 @@ ssh-keygen -t ed25519 -C "3292213072@qq.com"
 ssh-keygen -t rsa -b 4096 -C “3292213072@qq.com”
 
 ssh-keygen -t rsa -C "登录邮箱"
+
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.4.3
+--------------------
+GitHub Token: gho_**********
+GitHub Gist: 323acee881308ef35ecc04aae69163ca
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  settings.json > settings.json
+  entries.json > History\-11cdfd63\entries.json
+  entries.json > History\-158d37c\entries.json
+  entries.json > History\-16bc08d5\entries.json
+  entries.json > History\-176b9bd1\entries.json
+  entries.json > History\-131fdf14\entries.json
+  entries.json > History\-1dfb8d9f\entries.json
+  EHO3.json > History\-12709033\EHO3.json
+  entries.json > History\-12709033\entries.json
+  h9zc.json > History\-12709033\h9zc.json
+  7YZy.json > History\-12709033\7YZy.json
+  J9wK.json > History\-12709033\J9wK.json
+  entries.json > History\-23ac9676\entries.json
+  entries.json > History\-23a59de3\entries.json
+  entries.json > History\-1789e6df\entries.json
+  entries.json > History\-25645b83\entries.json
+  entries.json > History\-2afe884c\entries.json
+  entries.json > History\-27059540\entries.json
+  entries.json > History\-3545e7ce\entries.json
+  entries.json > History\-28d21ec2\entries.json
+  entries.json > History\-3659d185\entries.json
+  entries.json > History\-1ec18aae\entries.json
+  entries.json > History\-38a8af4\entries.json
+  entries.json > History\-372f3250\entries.json
+  entries.json > History\-304c3255\entries.json
+  entries.json > History\-3faffb0a\entries.json
+  entries.json > History\-372ebdf1\entries.json
+  entries.json > History\-3e9b43e\entries.json
+  entries.json > History\-46651d78\entries.json
+  entries.json > History\-45b5399d\entries.json
+  entries.json > History\-45679bba\entries.json
+  entries.json > History\-44d4cb1\entries.json
+  entries.json > History\-4a073fcd\entries.json
+  entries.json > History\-4a06cb6e\entries.json
+  entries.json > History\-4a07b42c\entries.json
+  7Cud.json > History\-4c2f5e6\7Cud.json
+  edBa.json > History\-4c2f5e6\edBa.json
+  IAwb.json > History\-4c2f5e6\IAwb.json
+  ONcX.json > History\-4c2f5e6\ONcX.json
+  JARg.json > History\-4c2f5e6\JARg.json
+  entries.json > History\-4c2f5e6\entries.json
+  yCtl.json > History\-4c2f5e6\yCtl.json
+  qyvv.json > History\-4c2f5e6\qyvv.json
+  entries.json > History\-4a08288b\entries.json
+  entries.json > History\-4a089cea\entries.json
+  entries.json > History\-4afcbc13\entries.json
+  entries.json > History\-4aac60e8\entries.json
+  entries.json > History\-4d75a0db\entries.json
+  entries.json > History\-4d845217\entries.json
+  entries.json > History\-4df27f17\entries.json
+  entries.json > History\-50789156\entries.json
+  entries.json > History\-565961eb\entries.json
+  entries.json > History\-54612799\entries.json
+  entries.json > History\-53159286\entries.json
+  entries.json > History\-555efbe3\entries.json
+  entries.json > History\-5b946a3e\entries.json
+  entries.json > History\-521d9456\entries.json
+  entries.json > History\-5d1e1675\entries.json
+  entries.json > History\-5afb6216\entries.json
+  FXwh.json > History\-5afb6216\FXwh.json
+  IVWJ.json > History\-5afb6216\IVWJ.json
+  omVr.json > History\-5afb6216\omVr.json
+  4Bfv.json > History\-5afb6216\4Bfv.json
+  G6wt.json > History\-5afb6216\G6wt.json
+  entries.json > History\-5ed5eb0c\entries.json
+  6K0S.json > History\-5ec52f65\6K0S.json
+  DajG.json > History\-5ec52f65\DajG.json
+  WoIv.json > History\-5ec52f65\WoIv.json
+  entries.json > History\-5ec52f65\entries.json
+  Duks.json > History\-5ea5720c\Duks.json
+  8jOC.json > History\-5ea5720c\8jOC.json
+  hkwp.json > History\-5ea5720c\hkwp.json
+  d6ZR.json > History\-5ea5720c\d6ZR.json
+  ieJX.json > History\-5ea5720c\ieJX.json
+  INeu.json > History\-5ea5720c\INeu.json
+  VjRZ.json > History\-5ea5720c\VjRZ.json
+  BMNQ.json > History\-5ea5720c\BMNQ.json
+  WwV8.json > History\-5ea5720c\WwV8.json
+  ybog.json > History\-5ea5720c\ybog.json
+  entries.json > History\-5ea5720c\entries.json
+  xUF0.json > History\-5ea5720c\xUF0.json
+  entries.json > History\-627fa8ee\entries.json
+  entries.json > History\-68ea9e65\entries.json
+  Dh9T.json > History\-6ac2db4d\Dh9T.json
+  entries.json > History\-6ac2db4d\entries.json
+  WUpx.json > History\-629a5062\WUpx.json
+  0IsU.json > History\-629a5062\0IsU.json
+  entries.json > History\-629a5062\entries.json
+  entries.json > History\-6b88ff7d\entries.json
+  entries.json > History\-75efe755\entries.json
+  entries.json > History\-6f74d69b\entries.json
+  entries.json > History\-92850e8\entries.json
+  entries.json > History\-6aa711d2\entries.json
+  entries.json > History\-7a4c1168\entries.json
+  entries.json > History\-7612fa0f\entries.json
+  entries.json > History\-976d811\entries.json
+  entries.json > History\-d09286a\entries.json
+  entries.json > History\-86f3151\entries.json
+  entries.json > History\-ed1dfd1\entries.json
+  entries.json > History\-7f2cd88\entries.json
+  entries.json > History\1375f0ca\entries.json
+  entries.json > History\1680f41d\entries.json
+  entries.json > History\-b339f26\entries.json
+  entries.json > History\152df697\entries.json
+  entries.json > History\1204cfff\entries.json
+  entries.json > History\1bd9ecbd\entries.json
+  entries.json > History\-ab82039\entries.json
+  entries.json > History\1cee751f\entries.json
+  entries.json > History\1e4d5354\entries.json
+  entries.json > History\10bea1ba\entries.json
+  entries.json > History\226043d5\entries.json
+  entries.json > History\1843474\entries.json
+  entries.json > History\-abdb8a9\entries.json
+  entries.json > History\251708f\entries.json
+  entries.json > History\2dabea8b\entries.json
+  bjOx.json > History\2dabea8b\bjOx.json
+  OMZ7.json > History\2dabea8b\OMZ7.json
+  entries.json > History\290c2daf\entries.json
+  entries.json > History\309d872e\entries.json
+  entries.json > History\328d85d4\entries.json
+  entries.json > History\33d9fbdd\entries.json
+  entries.json > History\32cdb4ca\entries.json
+  entries.json > History\358d4e17\entries.json
+  7qSm.json > History\392bae55\7qSm.json
+  entries.json > History\392bae55\entries.json
+  fPR1.json > History\392bae55\fPR1.json
+  entries.json > History\2d12d031\entries.json
+  entries.json > History\3af9b312\entries.json
+  entries.json > History\24427276\entries.json
+  entries.json > History\3b727273\entries.json
+  entries.json > History\3b73cf90\entries.json
+  entries.json > History\3b72e6d2\entries.json
+  entries.json > History\3b735b31\entries.json
+  entries.json > History\3b71fe14\entries.json
+  entries.json > History\394f585b\entries.json
+  entries.json > History\3b74b84e\entries.json
+  entries.json > History\3b75a10c\entries.json
+  entries.json > History\3b752cad\entries.json
+  entries.json > History\3b7443ef\entries.json
+  entries.json > History\3fcf6e3f\entries.json
+  entries.json > History\3bebf32\entries.json
+  entries.json > History\4141c2b4\entries.json
+  entries.json > History\3fd7e414\entries.json
+  entries.json > History\417f3d5b\entries.json
+  entries.json > History\4ace6fb7\entries.json
+  entries.json > History\42df4f1e\entries.json
+  eCCI.json > History\4c3c1853\eCCI.json
+  entries.json > History\4c3c1853\entries.json
+  JMlz.json > History\4c3c1853\JMlz.json
+  entries.json > History\4b18c8b\entries.json
+  entries.json > History\47c83557\entries.json
+  7tXz.json > History\56465a1f\7tXz.json
+  oW9D.json > History\56465a1f\oW9D.json
+  entries.json > History\56465a1f\entries.json
+  entries.json > History\56467ed9\entries.json
+  entries.json > History\4f097af\entries.json
+  4pfH.json > History\5069e750\4pfH.json
+  9NRn.json > History\5069e750\9NRn.json
+  3lgl.json > History\5069e750\3lgl.json
+  B9Ax.json > History\5069e750\B9Ax.json
+  bfbf.json > History\5069e750\bfbf.json
+  BP8z.json > History\5069e750\BP8z.json
+  bhfu.json > History\5069e750\bhfu.json
+  7DQx.json > History\5069e750\7DQx.json
+  dQYY.json > History\5069e750\dQYY.json
+  dVzO.json > History\5069e750\dVzO.json
+  fjqC.json > History\5069e750\fjqC.json
+  iSjv.json > History\5069e750\iSjv.json
+  entries.json > History\5069e750\entries.json
+  jU6x.json > History\5069e750\jU6x.json
+  o4Zl.json > History\5069e750\o4Zl.json
+  OQLP.json > History\5069e750\OQLP.json
+  Guje.json > History\5069e750\Guje.json
+  KX6E.json > History\5069e750\KX6E.json
+  KPxs.json > History\5069e750\KPxs.json
+  T1qL.json > History\5069e750\T1qL.json
+  rf8n.json > History\5069e750\rf8n.json
+  z5Tk.json > History\5069e750\z5Tk.json
+  Zctc.json > History\5069e750\Zctc.json
+  entries.json > History\5a3e071e\entries.json
+  entries.json > History\5533da0f\entries.json
+  entries.json > History\59a3c0fd\entries.json
+  rW9C.json > History\5d17c6fe\rW9C.json
+  entries.json > History\5c41c60f\entries.json
+  UnvD.json > History\5c41c60f\UnvD.json
+  entries.json > History\5f832d81\entries.json
+  entries.json > History\601ef2f3\entries.json
+  entries.json > History\601e7e94\entries.json
+  entries.json > History\5e89a84b\entries.json
+  entries.json > History\643b13bc\entries.json
+  entries.json > History\601f6752\entries.json
+  entries.json > History\5a3e7b7d\entries.json
+  JyTV.json > History\6992fc59\JyTV.json
+  entries.json > History\6992fc59\entries.json
+  entries.json > History\75f2c1ab\entries.json
+  entries.json > History\61fb63b9\entries.json
+  entries.json > History\6be2b8e7\entries.json
+  entries.json > History\79a1c73a\entries.json
+  entries.json > History\7ac91b0e\entries.json
+  entries.json > History\64ecd6d3\entries.json
+  twbv.json > History\6a08c577\twbv.json
+  entries.json > History\6a08c577\entries.json
+  MppM.json > History\6a08c577\MppM.json
+  entries.json > History\76932328\entries.json
+  entries.json > History\77d0c3dd\entries.json
+  entries.json > History\7b5f2779\entries.json
+  entries.json > History\7c1e89b3\entries.json
+  entries.json > History\7dd6eefd\entries.json
+  entries.json > History\b452068\entries.json
+  2xSl.json > History\7ad18400\2xSl.json
+  2wp8.json > History\7ad18400\2wp8.json
+  7CCp.json > History\7ad18400\7CCp.json
+  3CMB.json > History\7ad18400\3CMB.json
+  BoOH.json > History\7ad18400\BoOH.json
+  9SpT.json > History\7ad18400\9SpT.json
+  6wej.json > History\7ad18400\6wej.json
+  8pWX.json > History\7ad18400\8pWX.json
+  bOwh.json > History\7ad18400\bOwh.json
+  Do4y.json > History\7ad18400\Do4y.json
+  bpGu.json > History\7ad18400\bpGu.json
+  bVPx.json > History\7ad18400\bVPx.json
+  deK7.json > History\7ad18400\deK7.json
+  FcBQ.json > History\7ad18400\FcBQ.json
+  f7AI.json > History\7ad18400\f7AI.json
+  gepB.json > History\7ad18400\gepB.json
+  H9CY.json > History\7ad18400\H9CY.json
+  hr39.json > History\7ad18400\hr39.json
+  entries.json > History\7ad18400\entries.json
+  IlWr.json > History\7ad18400\IlWr.json
+  JMfz.json > History\7ad18400\JMfz.json
+  Fp2K.json > History\7ad18400\Fp2K.json
+  Jtyo.json > History\7ad18400\Jtyo.json
+  kWvu.json > History\7ad18400\kWvu.json
+  J6LY.json > History\7ad18400\J6LY.json
+  mRmG.json > History\7ad18400\mRmG.json
+  osNl.json > History\7ad18400\osNl.json
+  GKr5.json > History\7ad18400\GKr5.json
+  q5x3.json > History\7ad18400\q5x3.json
+  rcsE.json > History\7ad18400\rcsE.json
+  rd2n.json > History\7ad18400\rd2n.json
+  SjAS.json > History\7ad18400\SjAS.json
+  sMFe.json > History\7ad18400\sMFe.json
+  QMjF.json > History\7ad18400\QMjF.json
+  Q0hW.json > History\7ad18400\Q0hW.json
+  SP1Q.json > History\7ad18400\SP1Q.json
+  rG8H.json > History\7ad18400\rG8H.json
+  SZvK.json > History\7ad18400\SZvK.json
+  T0ta.json > History\7ad18400\T0ta.json
+  UMvu.json > History\7ad18400\UMvu.json
+  uote.json > History\7ad18400\uote.json
+  VdBH.json > History\7ad18400\VdBH.json
+  vKS1.json > History\7ad18400\vKS1.json
+  UPc8.json > History\7ad18400\UPc8.json
+  uWXx.json > History\7ad18400\uWXx.json
+  XHcw.json > History\7ad18400\XHcw.json
+  xkqL.json > History\7ad18400\xkqL.json
+  w52C.json > History\7ad18400\w52C.json
+  x2nj.json > History\7ad18400\x2nj.json
+  Xps7.json > History\7ad18400\Xps7.json
+  YLMk.json > History\7ad18400\YLMk.json
+  storage.json > globalStorage\storage.json
+  supported_calls.json > globalStorage\visualstudioexptteam.intellicode-api-usage-examples\supported_calls.json
+  extension-recommender.model.json > globalStorage\vscode-extension-recommender\extension-recommender.model.json
+  PSES-VSCode-5224-774229.json > globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-5224-774229.json
+  Microsoft.NETCore.App.deps.json > globalStorage\ms-dotnettools.vscode-dotnet-runtime\.dotnet\6.0.35~x64\shared\Microsoft.NETCore.App\6.0.35\Microsoft.NETCore.App.deps.json
+  Microsoft.NETCore.App.runtimeconfig.json > globalStorage\ms-dotnettools.vscode-dotnet-runtime\.dotnet\6.0.35~x64\shared\Microsoft.NETCore.App\6.0.35\Microsoft.NETCore.App.runtimeconfig.json
+  Microsoft.NETCore.App.runtimeconfig.json > globalStorage\ms-dotnettools.vscode-dotnet-runtime\.dotnet\6.0.33~x64\shared\Microsoft.NETCore.App\6.0.33\Microsoft.NETCore.App.runtimeconfig.json
+  Microsoft.NETCore.App.deps.json > globalStorage\ms-dotnettools.vscode-dotnet-runtime\.dotnet\6.0.33~x64\shared\Microsoft.NETCore.App\6.0.33\Microsoft.NETCore.App.deps.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  auto-markdown-toc v3.0.13
+  autodocstring v0.6.1
+  cmake v0.0.17
+  cmake-tools v1.19.52
+  code-runner v0.12.2
+  code-settings-sync v3.4.3
+  code-translate v1.0.20
+  codesnap v1.3.4
+  cpptools v1.22.9
+  cpptools-extension-pack v1.3.0
+  csdevkit v1.11.14
+  csharp v2.50.27
+  csharpextensions v1.7.3
+  datawrangler v1.12.0
+  dbclient-jdbc v1.3.6
+  debugpy v2024.12.0
+  errorlens v3.20.0
+  Fitten-Code v0.10.94
+  gc-excelviewer v4.2.62
+  git-extension-pack v0.1.3
+  githistory v0.6.20
+  gitignore v0.9.0
+  gitlens v15.6.2
+  indent-rainbow v8.3.1
+  intellicode-api-usage-examples v0.2.8
+  java v1.35.1
+  jinja v0.0.8
+  jupyter v2024.9.1
+  jupyter-keymap v1.1.2
+  jupyter-renderers v1.0.19
+  markdown-all-in-one v3.6.2
+  markdown-image v1.1.43
+  markdown-pdf v1.5.0
+  markdown-preview-enhanced v0.8.14
+  material-icon-theme v5.11.1
+  mdmath v2.7.4
+  path-intellisense v2.9.0
+  pdf v1.2.2
+  powershell v2024.2.2
+  preview-mp4 v0.0.1
+  preview-tiff v1.0.1
+  project-manager v12.8.0
+  pyqt-integration v0.2.0
+  python v2024.16.1
+  python-environment-manager v1.2.4
+  python-extension-pack v1.7.0
+  rainbow-csv v3.12.0
+  sqlite-viewer v0.7.3
+  sqltools v0.28.3
+  sqltools-driver-pg v0.5.4
+  trailing-spaces v0.4.1
+  vsc-python-indent v1.18.0
+  vscode-dbf v0.1.2
+  vscode-django v1.15.0
+  vscode-dotnet-runtime v2.2.0
+  vscode-filesize v3.1.0
+  vscode-gradle v3.16.4
+  vscode-gutter-preview v0.31.2
+  vscode-java-debug v0.58.0
+  vscode-java-dependency v0.24.0
+  vscode-java-pack v0.29.0
+  vscode-java-test v0.42.0
+  vscode-jupyter-cell-tags v0.1.9
+  vscode-jupyter-slideshow v0.1.6
+  vscode-language-pack-zh-hans v1.94.2024101609
+  vscode-maven v0.44.0
+  vscode-open-in-github v1.3.6
+  vscode-postgresql-client2 v7.6.3
+  vscode-pylance v2024.10.1
+  vscodeintellicode v1.3.1
+--------------------
+Done.
