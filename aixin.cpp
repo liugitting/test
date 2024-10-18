@@ -19,6 +19,7 @@ int main()
         putchar('\n');
     }
     cout << "Press any key to exit" << endl;
+    cout<<"V10";
     getchar();
     return 0;
 }
